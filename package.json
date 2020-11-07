@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass src/sass/main.scss src/css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nik68rus/natours.git"
+  },
+  "author": "Nikita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nik68rus/natours/issues"
+  },
+  "homepage": "https://github.com/Nik68rus/natours#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
